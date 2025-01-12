@@ -73,3 +73,18 @@ C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Cor
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject - עותק\Book\Book.Data\obj\Debug\net6.0\refint\Books.Data.dll
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject - עותק\Book\Book.Data\obj\Debug\net6.0\Books.Data.pdb
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject - עותק\Book\Book.Data\obj\Debug\net6.0\ref\Books.Data.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\bin\Debug\net6.0\Books.Data.deps.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\bin\Debug\net6.0\Books.Data.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\bin\Debug\net6.0\Books.Data.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\bin\Debug\net6.0\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\bin\Debug\net6.0\Books.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.csproj.CopyComplete
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\refint\Books.Data.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\Books.Data.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Data\obj\Debug\net6.0\ref\Books.Data.dll

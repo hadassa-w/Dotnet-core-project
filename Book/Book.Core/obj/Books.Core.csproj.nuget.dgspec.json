@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Core\\Books.Core.csproj": {}
+    "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Core\\Books.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Core\\Books.Core.csproj": {
+    "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Core\\Books.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Core\\Books.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Core\\Books.Core.csproj",
         "projectName": "Books.Core",
-        "projectPath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Core\\Books.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Core\\Books.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

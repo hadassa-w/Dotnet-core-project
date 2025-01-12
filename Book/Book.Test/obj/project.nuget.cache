@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36wKEMC6kA9QohrE+cV5LU8ExyXn4WXeKDhIBY1pvyBGI9zggoruqE4hHkpl4iWs36aPILFSdM9TIX480/1H/g==",
+  "dgSpecHash": "bytWUgA3G72nhyqDAHJUTOvkzkNd6CLAtlcn+4e7+WzChNmXpu3sAMTGkse3e6Dad+2C8xaSr2fF8FAsb5DokA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject - עותק\\Book\\Book.Test\\Books.Test.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Test\\Books.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
