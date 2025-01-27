@@ -24,9 +24,9 @@ namespace Books.API.Controllers
 
         // GET: api/<BookBuyController>
         [HttpGet]
-        public ActionResult Get()
+        public async Task<ActionResult> Get()
         {
-            var list = _bookBuyerService.GetAll();
+            var list = await _bookBuyerService.GetAllAsync();
             var listDTO = _mapper.Map<IEnumerable<BookBuyerDTO>>(list);
             return Ok(listDTO);
         }
@@ -42,7 +42,7 @@ namespace Books.API.Controllers
 
         // POST api/<BookBuyController>
         [HttpPost]
-        public ActionResult Post([FromBody] BookBuyerPostModel book)
+        public async Task<ActionResult> Post([FromBody] BookBuyerPostModel book)
         {
             //var bookList = new List<Book>();
 
@@ -73,14 +73,26 @@ namespace Books.API.Controllers
                 Country = book.Country,
                 //Books = bookList
             };
-            return Ok(_bookBuyerService.Add(newBook));
+            var bookBuyerNew = await _bookBuyerService.AddAsync(newBook);
+            return Ok(bookBuyerNew);
         }
 
         // PUT api/<BookBuyController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] BookBuyer book)
+        public ActionResult Put(int id, [FromBody] BookBuyerPostModel book)
         {
-            return Ok(_bookBuyerService.Update(id, book));
+            var newBook = new BookBuyer
+            {
+                FullName = book.FullName,
+                Phone = book.Phone,
+                Telephone = book.Telephone,
+                Email = book.Email,
+                Address = book.Address,
+                City = book.City,
+                Country = book.Country,
+                //Books = bookList
+            };
+            return Ok(_bookBuyerService.Update(id, newBook));
         }
 
         // DELETE api/<BookBuyController>/5

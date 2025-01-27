@@ -8,6 +8,7 @@ namespace Books.Core.DTOs
 {
     public class BookBuyerDTO
     {
+        public int Id { get; set; }
         public string FullName { get; set; }
         public int Phone { get; set; }
         public int Telephone { get; set; }

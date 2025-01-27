@@ -9,9 +9,9 @@ namespace Books.Core.Services
 {
     public interface IBookBuyerService
     {
-        IEnumerable<BookBuyer> GetAll();
+        Task<IEnumerable<BookBuyer>> GetAllAsync();
         BookBuyer? GetById(int id);
-        BookBuyer Add(BookBuyer bookBuy);
+        Task<BookBuyer> AddAsync(BookBuyer bookBuy);
         BookBuyer? Update(int id, BookBuyer bookBuy);
         void Delete(BookBuyer bookBuy);
     }

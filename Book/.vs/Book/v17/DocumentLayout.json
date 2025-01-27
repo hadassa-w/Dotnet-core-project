@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6B77C8-FB4B-4AEB-ABE6-30FC7D0E5F50}|Book.Data\\Books.Data.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6B77C8-FB4B-4AEB-ABE6-30FC7D0E5F50}|Book.Data\\Books.Data.csproj|solutionrelative:book.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956828E5-E9BE-425C-8CB2-F550109D8EE2}|Book.Core\\Books.Core.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956828E5-E9BE-425C-8CB2-F550109D8EE2}|Book.Core\\Books.Core.csproj|solutionrelative:book.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.api\\controllers\\bookbuyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|solutionrelative:book.api\\controllers\\bookbuyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|solutionrelative:book.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|solutionrelative:book.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.api\\controllers\\booksellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|solutionrelative:book.api\\controllers\\booksellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956828E5-E9BE-425C-8CB2-F550109D8EE2}|Book.Core\\Books.Core.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.core\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956828E5-E9BE-425C-8CB2-F550109D8EE2}|Book.Core\\Books.Core.csproj|solutionrelative:book.core\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\dotnet core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200Fnewproject\\book\\book.api\\models\\bookpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C889AE0-2BCA-4F6B-86C7-E09288C03BBB}|Book.API\\Books.API.csproj|solutionrelative:book.api\\models\\bookpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Book.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Book.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:03:25.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Book.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:38:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookBuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookBuyerController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\BookBuyerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookBuyerController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\BookBuyerController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowF4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:34:36.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:14:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookSellerController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookSellerController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\BookSellerController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Controllers\\BookSellerController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\BookSellerController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:29:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Core\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Book.Core\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.Core\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "Book.Core\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:28:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Models\\BookPostModel.cs",
+              "RelativeDocumentMoniker": "Book.API\\Models\\BookPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Models\\BookPostModel.cs",
+              "RelativeToolTip": "Book.API\\Models\\BookPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:31:27.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Program.cs",
+              "RelativeDocumentMoniker": "Book.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1 \u05EA\u05E9\u05E4\u05D4\\DotNet Core\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA\\\u200F\u200F\u200F\u200F\u200F\u200F\u200F\u200FnewProject\\Book\\Book.API\\Program.cs",
+              "RelativeToolTip": "Book.API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:50:28.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJzQMIy5Lx7IVXwyYtZMtm4CC01i7hDk40YDJSRdvsLV2jkykmdUGdUzpW0W0VAZAui4rA77YVwhBQLGNylemw==",
+  "dgSpecHash": "5zqKbFZ1uH8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Service\\Books.Service.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏‏‏newProject\\Book\\Book.Service\\Books.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.36\\microsoft.entityframeworkcore.6.0.36.nupkg.sha512",

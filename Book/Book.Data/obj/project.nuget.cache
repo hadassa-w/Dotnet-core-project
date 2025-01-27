@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ThtgDl2pD+ScjYp2hHrHiXbWKT625f/c2dKgqctYCbxRcDn9Fv4i5r4emEkv7NqJwxCt53aoNYORaPvRuluGg==",
+  "dgSpecHash": "GHFyLnTgEQo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏newProject\\Book\\Book.Data\\Books.Data.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות\\שיעורים\\שנה ב תשפה\\DotNet Core\\שיעורי בית\\‏‏‏‏‏‏‏‏newProject\\Book\\Book.Data\\Books.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

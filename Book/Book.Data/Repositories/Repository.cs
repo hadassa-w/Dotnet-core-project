@@ -19,10 +19,10 @@ namespace Books.Data.Repositories
             _context = context;
             _dbSet = _context.Set<T>();
         }
-        public T Add(T entity)
+        public async Task<T> AddAsync(T entity)
         {
             _dbSet.Add(entity);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
             return entity;
         }
 
@@ -32,12 +32,12 @@ namespace Books.Data.Repositories
             _context.SaveChanges();
         }
 
-        public IEnumerable<T> GetAll()
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
-            _context.BooksBuyer.Include(b => b.Books).ToList();
-            _context.BooksSeller.Include(b => b.Books).ToList();
-            _context.Books.Include(b => b.BookBuyer).Include(b => b.BookSeller).ToList();
-            return _dbSet.ToList();
+            await _context.BooksBuyer.Include(b => b.Books).ToListAsync();
+            await _context.BooksSeller.Include(b => b.Books).ToListAsync();
+            await _context.Books.Include(b => b.BookBuyer).Include(b => b.BookSeller).ToListAsync();
+            return await _dbSet.ToListAsync();
         }
 
         public T? GetById(int id)
@@ -50,6 +50,8 @@ namespace Books.Data.Repositories
 
         public T Update(T entity)
         {
+            _context.BooksBuyer.Include(b => b.Books).ToList();
+            _context.BooksSeller.Include(b => b.Books).ToList();
             _dbSet.Update(entity);
             _context.SaveChanges();
             return entity;

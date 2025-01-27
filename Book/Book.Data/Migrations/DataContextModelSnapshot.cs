@@ -149,17 +149,21 @@ namespace Books.Data.Migrations
 
             modelBuilder.Entity("Books.Core.Models.Book", b =>
                 {
-                    b.HasOne("Books.Core.Models.BookBuyer", null)
+                    b.HasOne("Books.Core.Models.BookBuyer", "BookBuyer")
                         .WithMany("Books")
                         .HasForeignKey("BookBuyerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Books.Core.Models.BookSeller", null)
+                    b.HasOne("Books.Core.Models.BookSeller", "BookSeller")
                         .WithMany("Books")
                         .HasForeignKey("BookSellerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("BookBuyer");
+
+                    b.Navigation("BookSeller");
                 });
 
             modelBuilder.Entity("Books.Core.Models.BookBuyer", b =>

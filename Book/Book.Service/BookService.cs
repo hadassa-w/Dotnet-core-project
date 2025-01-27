@@ -18,11 +18,11 @@ namespace Books.Service
             _repositoryManager = repositoryManager;
         }
 
-        public Book Add(Book book)
+        public async Task<Book> AddAsync(Book book)
         {
-            _repositoryManager.Books.Add(book);
+            var newBook = await _repositoryManager.Books.AddAsync(book);
             _repositoryManager.Save();
-            return book;
+            return newBook;
         }
 
         public void Delete(Book book)
@@ -31,9 +31,9 @@ namespace Books.Service
             _repositoryManager.Save();
         }
 
-        public IEnumerable<Book> GetAll()
+        public async Task<IEnumerable<Book>> GetAllAsync()
         {
-            return _repositoryManager.Books.GetAll();
+            return await _repositoryManager.Books.GetAllAsync();
         }
 
         public Book? GetById(int id)

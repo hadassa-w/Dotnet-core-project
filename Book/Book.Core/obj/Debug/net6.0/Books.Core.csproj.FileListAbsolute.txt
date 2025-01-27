@@ -70,3 +70,29 @@ C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Cor
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\refint\Books.Core.dll
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.pdb
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\ref\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\bin\Debug\net6.0\Books.Core.deps.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\bin\Debug\net6.0\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\bin\Debug\net6.0\Books.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.sourcelink.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\refint\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\Books.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject - עותק\Book\Book.Core\obj\Debug\net6.0\ref\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\bin\Debug\net6.0\Books.Core.deps.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\bin\Debug\net6.0\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\bin\Debug\net6.0\Books.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.sourcelink.json
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\refint\Books.Core.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\Books.Core.pdb
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.Core\obj\Debug\net6.0\ref\Books.Core.dll

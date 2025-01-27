@@ -16,20 +16,26 @@ namespace Books.API.Controllers
     public class BookController : ControllerBase
     {
         private readonly IBookService _bookService;
+
+        private readonly IBookBuyerService _bookBuyerService;
+        private readonly IBookSellerService _bookSellerService;
+
         //private readonly Mapping _mapping;
         private readonly IMapper _mapper;
 
-        public BookController(IBookService bookService, IMapper mapper)
+        public BookController(IBookService bookService, IMapper mapper, IBookBuyerService bookBuyerService, IBookSellerService bookSellerService)
         {
             _bookService = bookService;
             _mapper = mapper;
+            _bookBuyerService = bookBuyerService;
+            _bookSellerService = bookSellerService;
         }
 
         // GET: api/<BookController>
         [HttpGet]
-        public ActionResult Get()
+        public async Task<ActionResult> Get()
         {
-            var list = _bookService.GetAll();
+            var list = await _bookService.GetAllAsync();
             var listDTO = _mapper.Map<IEnumerable<BookDTO>>(list);
             //var listDTO = new List<BookDTO>();
             //foreach (var book in list)
@@ -52,17 +58,118 @@ namespace Books.API.Controllers
 
         // POST api/<BookController>
         [HttpPost]
-        public ActionResult Post([FromBody] BookPostModel book)
+        public async Task<ActionResult> Post([FromBody] BookPostModel book)
         {
-            var newBook = new Book { BookName = book.BookName, WriterName = book.WriterName, CountPages = book.CountPages, Price = book.Price, Description = book.Description, DateWrite = book.DateWrite, Status = book.Status };
-            return Ok(_bookService.Add(newBook));
+            var bookBuyer = _bookBuyerService.GetById(book.BookBuyerId); // הנחה שהשיטה מחזירה BookBuyer
+            var bookSeller = _bookSellerService.GetById(book.BookSellerId); // הנחה שהשיטה מחזירה BookSeller
+            var newBook = new Book
+            {
+                BookName = book.BookName,
+                WriterName = book.WriterName,
+                CountPages = book.CountPages,
+                Price = book.Price,
+                Description = book.Description,
+                DateWrite = book.DateWrite,
+                Status = book.Status,
+                BookBuyer = bookBuyer,
+                BookSeller = bookSeller
+            };
+            var bookNew = await _bookService.AddAsync(newBook);
+            var newBookBuyerDTO = new BookBuyerDTO
+            {
+                FullName = bookBuyer.FullName,
+                Phone = bookBuyer.Phone,
+                Telephone = bookBuyer.Telephone,
+                Email = bookBuyer.Email,
+                Address = bookBuyer.Address,
+                City = bookBuyer.City,
+                Country = bookBuyer.Country,
+                //Books = bookList
+            }; 
+            var newBookSellerDTO = new BookSellerDTO
+            {
+                FullName = bookSeller.FullName,
+                Phone = bookSeller.Phone,
+                Telephone = bookSeller.Telephone,
+                Email = bookSeller.Email,
+                Address = bookSeller.Address,
+                City = bookSeller.City,
+                Country = bookSeller.Country,
+                //Books = bookList.ToList()
+            };
+
+            var newBookDTO = new BookDTO
+            {
+                BookName = book.BookName,
+                WriterName = book.WriterName,
+                CountPages = book.CountPages,
+                Price = book.Price,
+                Description = book.Description,
+                DateWrite = book.DateWrite,
+                Status = book.Status,
+                BookBuyer = newBookBuyerDTO,
+                BookSeller = newBookSellerDTO
+            };
+
+            return Ok(newBookDTO);
         }
 
         // PUT api/<BookController>/5
         [HttpPut("{id}")]
-        public ActionResult Put(int id, [FromBody] Book book)
+        public ActionResult Put(int id, [FromBody] BookPostModel book)
         {
-            return Ok(_bookService.Update(id, book));
+            var bookBuyer = _bookBuyerService.GetById(book.BookBuyerId); // הנחה שהשיטה מחזירה BookBuyer
+            var bookSeller = _bookSellerService.GetById(book.BookSellerId); // הנחה שהשיטה מחזירה BookSeller
+            var newBook = new Book
+            {
+                BookName = book.BookName,
+                WriterName = book.WriterName,
+                CountPages = book.CountPages,
+                Price = book.Price,
+                Description = book.Description,
+                DateWrite = book.DateWrite,
+                Status = book.Status,
+                BookBuyer = bookBuyer,
+                BookSeller = bookSeller
+            };
+            var bookNew = _bookService.AddAsync(newBook);
+            var newBookBuyerDTO = new BookBuyerDTO
+            {
+                FullName = bookBuyer.FullName,
+                Phone = bookBuyer.Phone,
+                Telephone = bookBuyer.Telephone,
+                Email = bookBuyer.Email,
+                Address = bookBuyer.Address,
+                City = bookBuyer.City,
+                Country = bookBuyer.Country,
+                //Books = bookList
+            };
+            var newBookSellerDTO = new BookSellerDTO
+            {
+                FullName = bookSeller.FullName,
+                Phone = bookSeller.Phone,
+                Telephone = bookSeller.Telephone,
+                Email = bookSeller.Email,
+                Address = bookSeller.Address,
+                City = bookSeller.City,
+                Country = bookSeller.Country,
+                //Books = bookList.ToList()
+            };
+
+            var newBookDTO = new BookDTO
+            {
+                BookName = book.BookName,
+                WriterName = book.WriterName,
+                CountPages = book.CountPages,
+                Price = book.Price,
+                Description = book.Description,
+                DateWrite = book.DateWrite,
+                Status = book.Status,
+                BookBuyer = newBookBuyerDTO,
+                BookSeller = newBookSellerDTO
+            };
+
+            return Ok(newBookDTO);
         }
 
         // DELETE api/<BookController>/5

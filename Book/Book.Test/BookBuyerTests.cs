@@ -17,7 +17,7 @@ namespace Books.Test
             //Arrange
 
             //Act
-            var result = _bookBuyerService.GetAll();
+            var result = _bookBuyerService.GetAllAsync();
 
             //Assert
             Assert.IsType<List<BookBuyer>>(result);
