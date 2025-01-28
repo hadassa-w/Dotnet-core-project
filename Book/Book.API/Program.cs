@@ -1,3 +1,4 @@
+using Books.API.Middlewars;
 using Books.Core;
 using Books.Core.Models;
 using Books.Core.Repositories;
@@ -62,6 +63,8 @@ app.UseCors("MyPolicy");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<ShabbatMiddleware>();
 
 app.MapControllers();
 
