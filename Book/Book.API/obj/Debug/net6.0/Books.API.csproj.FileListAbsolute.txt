@@ -661,3 +661,4 @@ C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Cor
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.API\obj\Debug\net6.0\Books.API.csproj.Up2Date
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.API\obj\Debug\net6.0\Books.API.genruntimeconfig.cache
 C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.API\obj\Debug\net6.0\ref\Books.API.dll
+C:\Users\user1\Documents\תכנות\שיעורים\שנה ב תשפה\DotNet Core\שיעורי בית\‏‏‏‏‏‏‏‏newProject\Book\Book.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
